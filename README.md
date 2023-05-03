@@ -1,6 +1,4 @@
-#  Embedded-Project
-
-## Food Dispencer
+# Food Dispencer (Embedded-Project)
       *descrizione astratta*
    componenti Hardware:
    
