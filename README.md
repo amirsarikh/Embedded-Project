@@ -19,11 +19,6 @@ Per quanto riguarda il **software**, è stato programmato Arduino per gestire tu
 4. Visualizzazione del timer sullo schermo LCD: il display LCD mostra quanto tempo manca all'erogazione successiva del cibo, consentendo di tenere traccia dei tempi di alimentazione in modo comodo e intuitivo.
 
 In conclusione, il progetto combinato di hardware e software utilizza Arduino come base e integra un sensore ad ultrasuoni, un servo motore, due LED, un bottone e uno schermo LCD per creare un dispenser di cibo per animali intelligente. Il dispositivo rilascia il cibo quando viene rilevata la presenza dell'animale, sia tramite il sensore ad ultrasuoni, il bottone o un timer programmato. Il tempo rimanente prima della prossima erogazione del cibo viene visualizzato sullo schermo LCD per una facile supervisione.
-
-   **foto progetto:(TINKERCAD)**
-<img width="938" alt="Screenshot 2023-05-18 alle 15 28 21" src="https://github.com/amirsarikh/Embedded-Project/assets/92156074/2957b813-7d4e-40c0-af80-db630dd86230">
-   
-   **foto reali del progetto:**
    
    
 
