@@ -11,7 +11,7 @@ Per quanto riguarda l'**hardware**, hai utilizzato i seguenti componenti:
 *MATERIALI GENERICI*
 - Scatola di cartone: che contiene il cirucito e gli altri materiali generici
 - Recipiente: che contiene il cibo
-- 
+
 Per quanto riguarda il **software**, è stato programmato Arduino per gestire tutte le operazioni del dispositivo. L ’algoritmo comprende le seguenti funzionalità:
 1. Rilevamento dell'animale tramite il sensore ad ultrasuoni: quando l'animale si avvicina al dispositivo, il sensore attiva il processo di alimentazione.
 2. Erogazione del cibo: il sistema apre il servo motore per rilasciare il cibo nella ciotola dell'animale.
@@ -21,6 +21,7 @@ Per quanto riguarda il **software**, è stato programmato Arduino per gestire tu
 In conclusione, il progetto combinato di hardware e software utilizza Arduino come base e integra un sensore ad ultrasuoni, un servo motore, due LED, un bottone e uno schermo LCD per creare un dispenser di cibo per animali intelligente. Il dispositivo rilascia il cibo quando viene rilevata la presenza dell'animale, sia tramite il sensore ad ultrasuoni, il bottone o un timer programmato. Il tempo rimanente prima della prossima erogazione del cibo viene visualizzato sullo schermo LCD per una facile supervisione.
 
    **foto progetto:(frizig)**
+<img width="938" alt="Screenshot 2023-05-18 alle 15 28 21" src="https://github.com/amirsarikh/Embedded-Project/assets/92156074/2957b813-7d4e-40c0-af80-db630dd86230">
    
    **foto reali del progetto:**
    
