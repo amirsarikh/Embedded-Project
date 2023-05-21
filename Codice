@@ -1,4 +1,4 @@
-'''
+```
 #include <Servo.h>
 
 const int triggerPin = 6;  // Pin del trigger del sensore ad ultrasuoni
@@ -71,5 +71,5 @@ void moveServo() {
     timer = millis();         // Avvia il timer
   }
 }
-'''
+```
 
