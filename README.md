@@ -8,6 +8,8 @@ Per quanto riguarda l'**hardware**, hai utilizzato i seguenti componenti:
 - Due LED: uno verde e uno rosso, che indicano se il cibo è disponibile per l’erogazione (LED verde acceso) o non disponibile (LED rosso acceso).
 - Bottone: offre un'opzione di attivazione manuale per erogare il cibo all'animale.
 - Schermo LCD: visualizza il timer che indica quanto tempo manca all'erogazione successiva del cibo.
+- 1 resistenza da 220Ω
+- 1 resistenza da 1kΩ
 *MATERIALI GENERICI:*
 - Scatola di cartone: che contiene il cirucito e gli altri materiali generici
 - Recipiente: che contiene il cibo
