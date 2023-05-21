@@ -4,12 +4,12 @@
 const int triggerPin = 6;      // Pin del trigger del sensore ad ultrasuoni
 const int echoPin = 5;         // Pin dell'echo del sensore ad ultrasuoni
 const int buttonPin = 7;       // Pin del bottone
-const int redLedPin = 12;      // Pin del LED rosso
-const int greenLedPin = 11;    // Pin del LED verde
+const int redLedPin = 3;      // Pin del LED rosso
+const int greenLedPin = 4;    // Pin del LED verde
 const int servoPin = 2;        // Pin del servo motore
 
 // Configurazione dello schermo LCD
-LiquidCrystal lcd(13, 10, 9, 8, 4, 3);
+LiquidCrystal lcd(13, 10, 9, 8, 11, 12);
 Servo myServo;
 unsigned long servoDelay = 4000;    // Tempo di blocco del servo (40 secondi)
 unsigned long timer = 0;            // Variabile per il timer di 10 secondi
@@ -91,4 +91,5 @@ void moveServo() {
     lcd.print("s ");                       // Aggiungi "s" per indicare secondi
   }
 }
+
 
